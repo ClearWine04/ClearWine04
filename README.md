@@ -1,5 +1,8 @@
 ## Hi there 👋
 ### This is ClearWine
+- 🌱Blog: [ClearWine's blog](http://clearwine.online/)
+- 🥺是菜菜
+- 😋但爱玩
 <!--
 **ClearWine04/ClearWine04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
